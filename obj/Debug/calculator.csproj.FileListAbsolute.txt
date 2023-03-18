@@ -1,0 +1,8 @@
+D:\s2 pemograman\pertemuan1\calculator\calculator\bin\Debug\calculator.exe.config
+D:\s2 pemograman\pertemuan1\calculator\calculator\bin\Debug\calculator.exe
+D:\s2 pemograman\pertemuan1\calculator\calculator\bin\Debug\calculator.pdb
+D:\s2 pemograman\pertemuan1\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+D:\s2 pemograman\pertemuan1\calculator\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+D:\s2 pemograman\pertemuan1\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+D:\s2 pemograman\pertemuan1\calculator\calculator\obj\Debug\calculator.exe
+D:\s2 pemograman\pertemuan1\calculator\calculator\obj\Debug\calculator.pdb
